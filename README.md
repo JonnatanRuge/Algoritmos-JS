@@ -4,7 +4,7 @@ Este repositorio contiene una colección de algoritmos implementados utilizando 
 
 ## Descripción
 
-El proyecto incluye varios algoritmos clásicos y modernos, implementados y visualizados con tecnologías web. Cada algoritmo tiene su propia página web que demuestra su funcionamiento y visualización interactiva.
+El proyecto incluye varios algoritmos clásicos y modernos, implementados y visualizados con tecnologías web. 
 
 ## Algoritmos Incluidos
 
@@ -23,8 +23,8 @@ El proyecto incluye varios algoritmos clásicos y modernos, implementados y visu
 
 ## Tecnologías Utilizadas
 
-- **HTML**: Estructura de las páginas web para cada algoritmo.
-- **CSS**: Estilos y diseño visual de las páginas.
+- **HTML**: Estructura de página web.
+- **CSS**: Estilos y diseño visual de la página.
 - **JavaScript**: Lógica de los algoritmos y su visualización interactiva.
 
 ## Uso
